@@ -3,7 +3,6 @@ public class ex0904 {
     public static void main(String[] args) throws Exception {
         int stackTraceLength = method1().length - method10().length + 1;
 
-        System.out.println(stackTraceLength);
     }
 
     public static StackTraceElement[] method1() {
