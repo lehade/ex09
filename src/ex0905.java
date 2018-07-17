@@ -6,7 +6,9 @@ public class ex0905 {
 
     public static int getStackTraceDeep() {
         //напишите тут ваш код
-
+        StackTraceElement[] stackTraceElements = Thread.currentThread().getStackTrace();
+        System.out.println(stackTraceElements.length);
+        return stackTraceElements.length;
     }
 
 }
