@@ -3,7 +3,7 @@ import java.rmi.RemoteException;
 
 public class ex0916 {
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
 
             processExceptions(new Solution());
 
@@ -32,6 +32,6 @@ public class ex0916 {
 
     public void method3() throws RemoteException {
         throw new RemoteException();
-    }
+    }*/
 
 }

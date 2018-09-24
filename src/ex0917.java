@@ -1,6 +1,6 @@
 public class ex0917 {
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         processExceptions(new Solution());
     }
 
@@ -39,6 +39,6 @@ public class ex0917 {
 
     public void method3() {
         throw new NumberFormatException();
-    }
+    }*/
 
 }
