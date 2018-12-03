@@ -6,10 +6,10 @@ public class ex0925 {
     public static int D = A * B;
 
     public static void main(String[] args) {
-        Solution room = new Solution();
-        room.A = 5;
+        //Solution room = new Solution();
+        //room.A = 5;
 
-        Solution.D = 5;
+        //Solution.D = 5;
     }
 
     public int getA() {
